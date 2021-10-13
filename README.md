@@ -5,3 +5,5 @@ Due to UC Berkeley's academic policies, I am unable to make these repositories p
 So, if you would like to see them please contact me.
 
 Email: justincheng101@berkeley.edu
+
+Linkedin: https://www.linkedin.com/in/justincheng101/
